@@ -1,0 +1,793 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prin",
+				"printout"
+			],
+			[
+				"to",
+				"topos"
+			],
+			[
+				"gen",
+				"genCode"
+			],
+			[
+				"str",
+				"strtol"
+			],
+			[
+				"sy",
+				"symIndex"
+			],
+			[
+				"num",
+				"numVars"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"sym",
+				"symPos"
+			],
+			[
+				"allToken",
+				"allToken"
+			],
+			[
+				"GET",
+				"getToken"
+			],
+			[
+				"c",
+				"constDeclaration"
+			],
+			[
+				"hex",
+				"hexToBinary"
+			],
+			[
+				"div",
+				"dividend"
+			],
+			[
+				"in",
+				"Integer"
+			],
+			[
+				"n",
+				"nextInt"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"old",
+				"oldHeight-1"
+			],
+			[
+				"N",
+				"nextNodes"
+			],
+			[
+				"new",
+				"newHeight"
+			],
+			[
+				"gr",
+				"growSkipList"
+			],
+			[
+				"ne",
+				"nextNodes"
+			],
+			[
+				"get",
+				"getMaxHeight"
+			],
+			[
+				"ma",
+				"maxHeight"
+			],
+			[
+				"next",
+				"nextNodes"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"a",
+				"allTokens"
+			],
+			[
+				"print",
+				"printTokens"
+			],
+			[
+				"specil",
+				"specialChar"
+			],
+			[
+				"spe",
+				"specialChar"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"clean",
+				"cleanCode"
+			],
+			[
+				"cl",
+				"cleanCode"
+			],
+			[
+				"source",
+				"sourceCode"
+			],
+			[
+				"sou",
+				"sourceCode"
+			],
+			[
+				"so",
+				"sourceCode"
+			],
+			[
+				"read",
+				"readSource"
+			],
+			[
+				"MAX",
+				"MAX_PER_LINE"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"plain",
+				"plainText"
+			],
+			[
+				"block",
+				"blockSize"
+			],
+			[
+				"blo",
+				"blockSize"
+			],
+			[
+				"cipher",
+				"cipherText"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"instruct",
+				"instruction"
+			],
+			[
+				"instr",
+				"instructs"
+			],
+			[
+				"max",
+				"MAX_CODE_LENGTH"
+			],
+			[
+				"Max",
+				"MAX_CODE_LENGTH"
+			],
+			[
+				"is",
+				"isPresent"
+			],
+			[
+				"pos",
+				"posSlope"
+			],
+			[
+				"di",
+				"digitPos"
+			],
+			[
+				"tr",
+				"TrieNode"
+			],
+			[
+				"y",
+				"yCoord"
+			],
+			[
+				"x",
+				"xCoord"
+			],
+			[
+				"boa",
+				"boardSize"
+			],
+			[
+				"xc",
+				"xCoord"
+			],
+			[
+				"Tr",
+				"TrieNode"
+			],
+			[
+				"add",
+				"addCoord"
+			],
+			[
+				"cahr",
+				"charAt"
+			],
+			[
+				"con",
+				"convertAlphaToInt"
+			],
+			[
+				"co",
+				"coordinateStrings"
+			],
+			[
+				"most",
+				"mostFrequentWord"
+			],
+			[
+				"strip",
+				"stripPunctuators"
+			],
+			[
+				"M",
+				"MAX_CHARACTERS_PER_WORD"
+			],
+			[
+				"input",
+				"inputCmds"
+			],
+			[
+				"sub",
+				"subtrie"
+			],
+			[
+				"MAx",
+				"MAX_WORDS_PER_LINE"
+			],
+			[
+				"su",
+				"subtrie"
+			],
+			[
+				"make",
+				"makeSubTrie"
+			],
+			[
+				"insert",
+				"insertString"
+			],
+			[
+				"mal",
+				"malloc"
+			],
+			[
+				"MA",
+				"MAX_CHARACTERS_PER_WORD"
+			],
+			[
+				"s",
+				"subtrie"
+			],
+			[
+				"st",
+				"stripPunctuators"
+			],
+			[
+				"de",
+				"destroyStack"
+			],
+			[
+				"sNode",
+				"sNodeCreate"
+			],
+			[
+				"count",
+				"countA"
+			],
+			[
+				"a2",
+				"a2Huge"
+			],
+			[
+				"Hu",
+				"hugeDestroyer"
+			],
+			[
+				"hu",
+				"hugeDestroyer"
+			],
+			[
+				"hug",
+				"HugeInteger"
+			],
+			[
+				"huge",
+				"hugeAdd"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"U",
+				"UINT_MAX"
+			],
+			[
+				"bin",
+				"binSearchRec"
+			],
+			[
+				"Smart",
+				"SmartArray"
+			],
+			[
+				"cre",
+				"createSmartArray"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "/Users/Dmarco/Documents/Projects/BlackWater/js/main.js",
+			"file_size": 0,
+			"file_write_time": 131262111820000000,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<div id=\"custom-modal\">\n  <div id=\"overlay\">\n      <ng\n      <a href ng-click=\"close()\">Close</a>\n  </div>\n  <div id=\"fade\"></div>\n</div>",
+			"file": "modal.html",
+			"file_size": 250,
+			"file_write_time": 131262157860000000,
+			"settings":
+			{
+				"buffer_size": 137,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<div id=\"custom-modal\">"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 263.0,
+		"last_filter": "Package Con",
+		"selected_items":
+		[
+			[
+				"Package Con",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Project: Add Folder"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"install",
+			"intsa;;",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"close",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Dmarco/Documents/Projects/tennisD/tennusD.sublime-project",
+		"/Users/Dmarco/Library/Application Support/Sublime Text 3/Packages/User/AngularJS-sublime-package.sublime-settings",
+		"/Users/Dmarco/Library/Application Support/Sublime Text 3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/Users/Dmarco/Documents/Projects/BlackWater/index.html",
+		"/Users/Dmarco/Documents/Projects/BlackWater/README.md",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/LinkedList.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/MergeSort.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/LCSS.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/FloydWarshall.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/Binomial.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/Fibonacci.java",
+		"/Users/Dmarco/Documents/School/CS2/RunLikeHell/RunLikeHell.java",
+		"/Users/Dmarco/Documents/School/CS2/TopolALLgical/TopolALLgical.java",
+		"/Users/Dmarco/Documents/School/CS2/RunLikeHell/TestCase10.java",
+		"/Users/Dmarco/Documents/School/CS2/RunLikeHell/TestCase04.java",
+		"/Users/Dmarco/Documents/School/CS2/RunLikeHell/TestCase09.java",
+		"/Users/Dmarco/Documents/School/SS/compile/compile.c",
+		"/Users/Dmarco/Documents/Projects/PC_Virus.C",
+		"/Users/Dmarco/Documents/School/main.c",
+		"/Users/Dmarco/Documents/School/SS/lex/compile.h",
+		"/Users/Dmarco/Documents/School/SS/lex/lexer.c",
+		"/Users/Dmarco/Documents/School/SS/lex/generator.c",
+		"/Users/Dmarco/Documents/School/SS/lex/compile.c",
+		"/Users/Dmarco/Documents/School/CS2/TopolALLgical/test_cases/TestCase01.java",
+		"/Users/Dmarco/Documents/School/CS2/TopolALLgical/test_cases/TopolALLgical.java",
+		"/Users/Dmarco/Documents/School/CS2/TopoPath/TopoPath.java",
+		"/Users/Dmarco/Documents/School/CS2/TopolALLgical/test_cases/out2.txt",
+		"/Users/Dmarco/Documents/School/CS2/TopolALLgical/test_cases/input_files/TestCase02-solution.txt",
+		"/Users/Dmarco/Documents/School/CS2/TopolALLgical/test_cases/test-all.sh",
+		"/Users/Dmarco/Documents/School/SS/BitBucketRepo/2_parser/b_simple_parser/makefile",
+		"/Users/Dmarco/Documents/School/SS/lex/makefile",
+		"/Users/Dmarco/Documents/School/SS/lex/correct0.pm0",
+		"/Users/Dmarco/Documents/School/SS/lex/correct3.pl0",
+		"/Users/Dmarco/Documents/School/SS/lex/correct4.pl0",
+		"/Users/Dmarco/Documents/School/SS/lex/compile.h.gch",
+		"/Users/Dmarco/Documents/School/SS/OLD/lex/tokens.h",
+		"/Users/Dmarco/Documents/School/SS/compile.c",
+		"/Users/Dmarco/Documents/School/SS/BitBucketRepo/2_parser/b_simple_parser/tokens.h",
+		"/Users/Dmarco/Documents/School/SS/BitBucketRepo/2_parser/b_simple_parser/util.h",
+		"/Users/Dmarco/Documents/School/SS/BitBucketRepo/2_parser/b_simple_parser/parser.h",
+		"/Users/Dmarco/Documents/School/SS/BitBucketRepo/2_parser/b_simple_parser/util.c",
+		"/Users/Dmarco/Documents/School/SS/BitBucketRepo/2_parser/b_simple_parser/syntax-graph-parser.c",
+		"/Users/Dmarco/Documents/School/SS/BitBucketRepo/2_parser/b_simple_parser/predictive-table-parser.c",
+		"/Users/Dmarco/Documents/School/SS/BitBucketRepo/2_parser/b_simple_parser/lex.c",
+		"/Users/Dmarco/Documents/School/SS/BitBucketRepo/1_lexer/b_lex-based_lexer/makefile",
+		"/Users/Dmarco/Documents/School/CS2/TopoPath/TestCase01.java",
+		"/Users/Dmarco/Documents/School/CIS/CRC/CrcTester.java",
+		"/Users/Dmarco/Documents/School/CS2/SneakyQueens/TestCases/SneakyQueens.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/Hamilton.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/nQueens.java",
+		"/Users/Dmarco/Documents/School/CS2/TopoPath/prereq.txt",
+		"/Users/Dmarco/Documents/School/CS2/SneakyKnights/Sneaky2/SneakyKnights.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/Graph.java",
+		"/Users/Dmarco/Documents/School/CS2/SneakyKnights/SneakyKnights.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/toposort.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/WeightedGraph.java",
+		"/Users/Dmarco/Documents/Web/SigmaChiUCF/bootstrap-3.3.7/dist/index.html",
+		"/Users/Dmarco/Documents/School/CS2/SkipList/SkipList.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/Stack.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/Person.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/Cluster.java",
+		"/Users/Dmarco/Documents/School/CS2/SkipList/test_cases/RNG.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/BloomFilter.java",
+		"/Users/Dmarco/Documents/School/CS2/GenericBST/GenericBST.java",
+		"/Users/Dmarco/Documents/School/CS2/SkipList/SkipList_TEMPLATE.java",
+		"/Users/Dmarco/Documents/School/SS/lex/lexer-Clemann/collaborations.txt",
+		"/Users/Dmarco/Documents/School/SS/lex/lexer2.c",
+		"/Users/Dmarco/Documents/School/SS/lex/output/basic.beenotung.log",
+		"/Users/Dmarco/Documents/School/SS/lex/output/comment.beenotung.log",
+		"/Users/Dmarco/Documents/School/SS/lex/output/compact.beenotung.log",
+		"/Users/Dmarco/Documents/School/SS/2016_fall_2016_cop3402/1_lexer/lexoutput.txt",
+		"/Users/Dmarco/Documents/School/SS/lex/basic.pl0",
+		"/Users/Dmarco/Documents/School/SS/lex/input.pl0",
+		"/Users/Dmarco/Documents/School/SS/lex/basic2.pl0",
+		"/Users/Dmarco/Documents/School/SS/vm/vm.c",
+		"/Users/Dmarco/Documents/School/SS/2016_fall_2016_cop3402/1_lexer/input.pl0",
+		"/Users/Dmarco/Documents/School/SS/2016_fall_2016_cop3402/1_lexer/tokens.h",
+		"/Users/Dmarco/Documents/School/CS2/GenericBST/GenericBSTresults.java",
+		"/Users/Dmarco/Documents/School/CS2/SneakyKnights/test_cases/SneakyKnights.java",
+		"/Users/Dmarco/Documents/School/CIS/JavaArgs.java",
+		"/Users/Dmarco/Documents/School/CIS/test.txt",
+		"/Users/Dmarco/Documents/School/CIS/CbcVigenere.java",
+		"/Users/Dmarco/Documents/School/CS2/Exam1R.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/WordCount.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/SpellChecker.java",
+		"/Users/Dmarco/Documents/School/CS2/SampleCode/Hashable.java",
+		"/Users/Dmarco/Documents/School/CS2/SneakyKnights/test_cases/TestCase03.java",
+		"/Users/Dmarco/Documents/School/CS2/SneakyKnights/test_cases/TestCase01.java",
+		"/Users/Dmarco/Documents/School/SS/vm/Collaboartions.txt",
+		"/Users/Dmarco/Documents/School/SS/vm/iosample.pm0",
+		"/Users/Dmarco/Documents/School/SS/vm/add.pm0",
+		"/Users/Dmarco/Documents/School/SS/vm/swaptrace.txt",
+		"/Users/Dmarco/Documents/School/SS/vm/swap.pm0",
+		"/Users/Dmarco/Documents/Web/SigmaChiUCF/indexJ.html",
+		"/Users/Dmarco/Documents/School/SS/vm/mcode.pl0",
+		"/Users/Dmarco/Documents/Web/DylanClemann/index.asp",
+		"/Users/Dmarco/Documents/School/zPast/Fall15/COP/HW7Clemann/main.c",
+		"/Users/Dmarco/Documents/School/CS2/GenericBST/TestCase02.java",
+		"/Users/Dmarco/Documents/School/CS2/GenericBST/TestCase01.java",
+		"/Users/Dmarco/Documents/School/CS2/GenericBST/Person.java",
+		"/Users/Dmarco/Documents/School/CS2/GenericBST/Cluster.java",
+		"/Users/Dmarco/Desktop/SneakyQueens.java",
+		"/Users/Dmarco/Documents/School/CS2/SneakyQueens/test.c",
+		"/Users/Dmarco/Documents/School/CS2/SneakyQueens/SneakyQueens.java",
+		"/Users/Dmarco/Documents/School/zPast/Fall15/COP/HW1 - Clemann/main.c",
+		"/Users/Dmarco/Documents/School/On this November day of 2003, Tyler Winklevoss, Ca",
+		"/Users/Dmarco/Documents/School/CS2/GenericBST/BST.java",
+		"/Users/Dmarco/Documents/School/CS2/SneakyQueens/TestCases/TestCase03.java",
+		"/Users/Dmarco/Documents/School/CS2/SneakyQueens/TestCases/TestCase02.java",
+		"/Users/Dmarco/Documents/School/zPast/CS1/Trie/TriePrediction.c",
+		"/Users/Dmarco/Documents/School/zPast/CS1/Trie/TriePrediction.h",
+		"/Users/Dmarco/Documents/School/CS2/SneakyQueens/TestCases/TestCase01.java",
+		"/Users/Dmarco/Documents/School/CS2/SneakyQueens/LinkedList.java",
+		"/Users/Dmarco/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/Dmarco/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/Dmarco/Documents/School/CS1/Trie/TriePrediction.h",
+		"/Users/Dmarco/Documents/School/CS1/Trie/TriePrediction.c",
+		"/Users/Dmarco/Documents/School/CS1/Trie/program4-testcases/io_tests/nohijack.c",
+		"/Users/Dmarco/Documents/School/CS1/Trie/program4-testcases/unit_tests/TrieAux.c",
+		"/Users/Dmarco/Documents/School/CS1/Trie/program4-testcases/unit_tests/hijack.c",
+		"/Users/Dmarco/Documents/School/CS1/Trie/tries.c",
+		"/Users/Dmarco/Library/Application Support/Sublime Text 3/Packages/User/C.sublime-settings",
+		"/Users/Dmarco/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/eustis",
+		"/Users/Dmarco/Documents/Projects/Release/config/config.json",
+		"/Users/Dmarco/Documents/School/CS1/SampleCode/minheap.c",
+		"/Users/Dmarco/Documents/Projects/Pokemon_Go_API-master/README.md",
+		"/Users/Dmarco/Desktop/get-pip.py",
+		"/Users/Dmarco/Documents/School/CS1/Kindred/KindredSpirits (2).c"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"7 6 5",
+			"7 6 5 4 3 2 1 0",
+			"symCount",
+			"cx",
+			"strc",
+			"keywordtype",
+			"keyword",
+			"keywordtype",
+			"in",
+			"allTokens",
+			"DC",
+			"use",
+			"used"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Dmarco/Documents/Projects/BlackWater/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "modal.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<div id=\"custom-modal\">",
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "tennusD.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
